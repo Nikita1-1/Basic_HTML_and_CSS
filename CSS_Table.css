@@ -1,0 +1,22 @@
+
+tr , th { 
+    background-color: rgb(213, 39, 213);
+    color: silver:
+}
+
+tr, td {
+    background-color: antiquewhite;
+    color: black;
+    transition: 0.5s;
+}
+
+table { 
+    border: 1px solid silver;
+    width: 100%;
+}
+
+td:hover{
+    background-color: bisque;
+    color: black;
+
+}

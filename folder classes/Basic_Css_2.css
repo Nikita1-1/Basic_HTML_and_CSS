@@ -1,0 +1,31 @@
+body {
+    font-style: italic;
+    text-align: center;
+}
+
+/*Creating Style for font_1*/
+.font_1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(1, 114, 114);
+    color: #cea135;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    
+}
+
+.spacer {
+    display:flex;
+    padding: 10px;
+}
+
+.font_2 {
+    display: flex;
+    justify-content: center;
+    text-align:left;
+    background-color: rgb(182, 101, 128);
+    color: white;
+    font-size: medium;
+    align-items: center;
+}
